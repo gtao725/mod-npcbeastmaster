@@ -93,7 +93,7 @@ This code and content is released under the [GNU AGPL v3](https://github.com/aze
 
 #include "Config.h"
 #include "Pet.h"
-#include "ScriptPCH.h"
+#include "ScriptMgr.h"
 #include "Configuration/Config.h"
 #include "ScriptedGossip.h"
 
